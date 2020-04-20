@@ -2,7 +2,7 @@
 
 *Author: Mark Bauer*  
 *Date Created: April 16, 2020*  
-*Date Updated: April 16, 2020*
+*Date Updated: April 20, 2020*
 
 Data Provided by: NYC Health Department.  
 New York State Statewide COVID-19 Testing Data Repository:  
